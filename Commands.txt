@@ -1,2 +1,3 @@
 git push -->push files to github
 git status -->check the status
+git push origin HEAD:testMain--> push data to test testMain
