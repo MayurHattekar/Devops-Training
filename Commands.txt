@@ -1,1 +1,2 @@
 git push -->push files to github
+git status -->check the status
